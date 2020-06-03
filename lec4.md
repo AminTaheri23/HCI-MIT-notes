@@ -24,7 +24,7 @@ skilled tasks can make this time less, it is different for every human.
 
 ### Perceptual fusion 
 
-frames **less than 100 ms** are fused together because we can **not distinguish** two frames. 
+frames **less than 100 milliseconds** are fused together because we can **not distinguish** two frames. 
 
 **causality** can be interpreted for perceptual fusion 
 
@@ -104,7 +104,7 @@ alpha is typically 0.2 - 0.6
 
 ## Predicting Efficiency 
 
-engineering mpdel is 
+engineering model is 
 
 - abstract
 - quantitative
@@ -117,7 +117,7 @@ engineering mpdel is
 
 - don't have to test real live users
 
-- theory provides explanations ( reaveal the problesm do not explain them)
+- theory provides explanations ( reveals the problem do not explain them)
 
 ### Keystrokes level Model
 
