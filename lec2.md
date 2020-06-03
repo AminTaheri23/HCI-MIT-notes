@@ -81,7 +81,7 @@ Command Language = CL, Menu Forms = MF and Direct Manipulation = DM
 - User Experience
   - CL for experts
   - MF and DM for novice users
-- Synchrony : visible immediate reactions is **not** synchrony. look at it from pc POV. 
+- Synchrony : visible immediate reactions is **not** synchrony. look at it from pc Point Of View. 
   - CL and MF are synchrony
   - DM is not, it is event driven
 - Programming difficulty
@@ -157,9 +157,9 @@ if a user can not see a button, user should recall it or guess it. and that is b
 
 we should make every thing visible. for example we should visible the function of dragging and dropping.  we should represent draggable object (with wiggling for example)
 
-## Feed Back 
+## FeedBack 
 
-​	action should have immediate visible. (sound, vibrate, image)
+action should have immediate visible. (sound, vibrate, image)
 
 you should feedback in the middle of action and at the end of the action 
 

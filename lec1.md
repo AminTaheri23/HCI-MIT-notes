@@ -24,11 +24,9 @@ they given us too much rope.
 
 human friendly, abstract. 
 
-
-
 ## Why UI matters?
 
-- Usable software sells good! users blame themselves. 
+- Usable software sells good! users blame themselves for UI mistakes. 
 
 - users time is getting expensive. bad UI even kills people in X rays. 
 
