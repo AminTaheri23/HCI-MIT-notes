@@ -46,17 +46,20 @@ states in which actions have different meaning = due to low visibility of mode. 
 ### Error Prevention
 
 #### avoiding slips and lapses
+
 change appearance of different actions ( keep dangerous commands away from other commands)
 
 #### Avoiding mode Error
-- increase visibility 
+
+- increase visibility
 - eliminate modes
 - spring-loaded or temp modes (like shift key)
 - disjoint actin sets
 
 #### Avoiding Lapses
+
 - keep procedures short (atomic functions)
-- minimize interruptions 
+- minimize interruptions
 - force functions
 
 #### Other rules for errors
