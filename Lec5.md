@@ -130,7 +130,7 @@ a tick box can be very efficient. but it should be reversible
 
 
 
-<img src="Lec5.assets/image-20200603142055371.png" alt="image-20200603142055371" style="zoom:50%;" />
+
 
  <img src="Lec5.assets/image-20200603142549488.png" alt="image-20200603142549488" style="zoom:50%;" />
 
